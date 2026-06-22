@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://zoomy14112.github.io/sitemap-index.xml
